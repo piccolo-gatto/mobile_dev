@@ -28,7 +28,7 @@ class Circle(var x: Int, var y: Int, var radius: Int) : Figure(0), Movable, Tran
         y = dy + centerY
     }
 
-    override fun print() {
-        println("x: $x, y: $y, radius: $radius")
+    override fun toString(): String {
+        return "x: $x, y: $y, radius: $radius"
     }
 }

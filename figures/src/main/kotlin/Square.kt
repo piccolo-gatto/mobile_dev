@@ -25,7 +25,7 @@ class Square(var x: Int, var y: Int, var width: Int) : Transforming, Figure(0), 
         x = dx + centerX
         y = dy + centerY
     }
-    override fun print() {
-        println("x: $x, y: $y, width: $width")
+    override fun toString(): String {
+        return "x: $x, y: $y, width: $width"
     }
 }
