@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AirlineTickets</string>
+    <string name="get">Найти</string>
+    <string name="out">Откуда</string>
+    <string name="in">Куда</string>
+    <string name="start">Вылет</string>
+    <string name="end">Прилёт</string>
+
+    <string name="adults">Взрослые</string>
+    <string name="children">Дети</string>
+
+    <string name="babies">Младенцы</string>
+    <string name="passengers">Количество пассажиров:</string>
+    <string name="classes">Класс обслуживания:</string>
+
+    <string name="economy">Эконом</string>
+    <string name="comfort">Комфорт</string>
+    <string name="business">Бизнес</string>
+    <string name="first">Первый класс</string>
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Новосибирск</item>
+        <item>Владивосток</item>
+        <item>Красноярск</item>
+        <item>Калининград</item>
+        <item>Владивосток</item>
+        <item>Хабаровск</item>
+    </string-array>
+</resources>
