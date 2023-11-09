@@ -20,6 +20,7 @@
     <string-array name="cities">
         <item>Москва</item>
         <item>Санкт-Петербург</item>
+        <item>Иркутск</item>
         <item>Новосибирск</item>
         <item>Владивосток</item>
         <item>Красноярск</item>
