@@ -1,0 +1,67 @@
+{ "movies": [
+   {
+     "name" : "Inception",
+     "country": ["USA", "Britain"],
+     "year": 2010,
+     "rating": 8.7,
+     "minutes": 148,
+     "genre": ["science fiction", "action", "thriller", "drama", "detective"]
+  },
+  {
+    "name" : "The Matrix",
+    "country": ["USA", "Australia"],
+    "year": 1999,
+    "rating": 8.5,
+    "minutes": 136,
+    "genre": ["science fiction", "action"]
+  },
+  {
+    "name" : "The Matrix: Reloaded",
+    "country": ["USA"],
+    "year": 2003,
+    "rating": 7.7,
+    "minutes": 138,
+    "genre": ["science fiction", "action"]
+  },
+  {
+    "name" : "Matrix: Revolutions",
+    "country": ["USA", "Australia"],
+    "year": 2003,
+    "rating": 7.6,
+    "minutes": 129,
+    "genre": ["science fiction", "action"]
+  },
+  {
+    "name" : "The Matrix: Resurrections",
+    "country": ["USA", "Australia"],
+    "year": 2021,
+    "rating": 5.7,
+    "minutes": 148,
+    "genre": ["science fiction", "action"]
+  },
+  {
+    "name" : "The Truman Show",
+    "country": ["USA"],
+    "year": 1998,
+    "rating": 8.3,
+    "minutes": 103,
+    "genre": ["drama", "comedy"]
+  },
+  {
+    "name" : "The Mask",
+    "country": ["USA"],
+    "year": 1994,
+    "rating": 8.0,
+    "minutes": 101,
+    "genre": ["comedy", "fantasy", "crime"]
+  },
+  {
+    "name" : "Bee Movie",
+    "country": ["USA"],
+    "year": 2007,
+    "rating": 6.2,
+    "minutes": 90,
+    "genre": ["cartoon", "drama", "comedy", "adventure", "family"]
+  }
+]
+}
