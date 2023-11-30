@@ -1,0 +1,7 @@
+<resources>
+    <string name="app">GuessNumber</string>
+    <string name="question">Число больше, чем </string>
+    <string name="yes">ДА</string>
+    <string name="no">НЕТ</string>
+    <string name="result">Вы загадали </string>
+</resources>
