@@ -1,2 +1,4 @@
 
-[Screen_recording_20231129_205255.webm](https://github.com/dzhoshua/android-dev/assets/118795314/810bbbb0-78d7-4526-84e1-3a4e908651bb)
+
+https://github.com/piccolo-gatto/mobile_dev/assets/108530800/108bc75f-bdc3-46b1-80eb-1198830a4240
+
